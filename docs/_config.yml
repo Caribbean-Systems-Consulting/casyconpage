@@ -20,7 +20,7 @@
 
 domain: casycon.com
 url: https://www.casycon.com
-baseurl: /docs/
+baseurl: /
 title: Caribbean Systems Consulting CaSyCon S.R.L
 email: info@casycon.com
 description: >- # this means to ignore newlines until "baseurl:"
