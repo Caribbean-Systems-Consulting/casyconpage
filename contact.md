@@ -10,5 +10,5 @@ description: Contactos
 | Días      | Horario Laboral  |
 | --------- | ---------------- |
 | L a V     | 08:30am - 5:00pm |
-| Sabados   | 10:00am - 4:00pm |
-| Domingos  | Cerrado          |
+| Sabados   | 10:00am - 1:00pm |
+| Domingos  | No laboramos     |
