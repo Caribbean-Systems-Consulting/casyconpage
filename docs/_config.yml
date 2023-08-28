@@ -33,7 +33,6 @@ twitter_username: casyconsrl
 github_username:  caribbean-systems-consulting
 instagram_username: caribbeansystemsconsulting
 
-# Build settings
 theme: minima
 plugins:
   - jekyll-feed
