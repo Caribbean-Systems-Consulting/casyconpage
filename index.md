@@ -5,7 +5,7 @@ description: Caribbean Systems Consulting (CaSyCon) S.R.L.
 intro_image: "images/illustrations/con-letra.jpg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
-show_call_box: true
+show_call_box: false
 ---
 
 # Caribbean Systems Consulting (CaSyCon) S.R.L.
