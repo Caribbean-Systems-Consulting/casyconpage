@@ -1,7 +1,7 @@
 ---
 title: "Walddys E. Dorrejo"
 date: 2018-11-19T10:47:58+10:00
-image: ""
+image: "images/team/walddys.jpeg"
 jobtitle: "Co-Fundador"
 linkedinurl: "https://www.linkedin.com/in/walddys-emmanuel-dorrejo-c%C3%A9spedes-85518672/"
 promoted: true
