@@ -9,15 +9,6 @@
     }
   },
   {
-    "title": "Infraestructura",
-    "description": "Podemos crear una infraestructura nueva o mejorar la que ya tiene.",
-    "image": {
-      "url": "images/features/infraestructura.png",
-      "width": 80,
-      "height": 80
-    }
-  },
-  {
     "title": "Desarrollo",
     "description": "Podemos hacer realidad su idea, o mejorar alguna que ya tenga implementada.",
     "image": {
@@ -25,5 +16,18 @@
       "width": 80,
       "height": 80
     }
-  }
+  },
+
+   {
+     "title": "Infraestructura",
+     "description": "Podemos crear una infraestructura nueva o mejorar la que ya tiene.",
+     "image": {
+       "url": "images/features/infraestructura.png",
+       "width": 80,
+       "height": 80
+     }
+
+   }
+
+
 ]
