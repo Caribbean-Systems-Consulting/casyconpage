@@ -1,7 +1,7 @@
 [
   {
     "title": "Consultoría",
-    "description": "Con una consultoría se puede mejorar tu infraestructura de tu negocio.",
+    "description": "Con una consultoría se puede mejorar el uso de la tecnologia en su negocio.",
     "image": {
       "url": "images/features/consultoria.png",
       "width": 80,
@@ -10,7 +10,7 @@
   },
   {
     "title": "Infraestructura",
-    "description": "Podemos hacer realidad eso que tienes en mente.",
+    "description": "Podemos crear una infraestructura nueva o mejorar la que ya tiene.",
     "image": {
       "url": "images/features/infraestructura.png",
       "width": 80,
@@ -19,7 +19,7 @@
   },
   {
     "title": "Desarrollo",
-    "description": "Podemos hacer realidad tu idea, o mejorar algo que ya tienes.",
+    "description": "Podemos hacer realidad su idea, o mejorar alguna que ya tenga implementada.",
     "image": {
       "url": "images/features/desarrollo.png",
       "width": 80,
