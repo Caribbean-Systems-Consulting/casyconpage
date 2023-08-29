@@ -10,4 +10,4 @@ show_call_box: true
 
 # Caribbean Systems Consulting (CaSyCon) S.R.L.
 
-Somos una empresa de servicios en las areas de tecnologia: infraestructura y desarrollo, la cual toma la etica como principio para brindar a nuestros clientes el mejor servicio posible.
+Somos una empresa de servicios en las areas de tecnologia: infraestructura y desarrollo, la cual toma la etica como principio para brindar a nuestros clientes la mejor experiencia de servicio.
