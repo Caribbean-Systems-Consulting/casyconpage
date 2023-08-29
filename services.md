@@ -1,7 +1,7 @@
 ---
-title: Services
+title: Servicios
 layout: services
-description: Services
+description: Servicios
 intro_image: "images/illustrations/tech-support.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
