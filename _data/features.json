@@ -1,27 +1,27 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Consultoría",
+    "description": "Con una consultoría se puede mejorar tu infraestructura de tu negocio.",
     "image": {
-      "url": "images/features/noun_branding_1885335.svg",
+      "url": "images/features/consultoria.png",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Infraestructura",
+    "description": "Podemos hacer realidad eso que tienes en mente.",
     "image": {
-      "url": "images/features/noun_The Process_1885341.svg",
+      "url": "images/features/infraestructura.png",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Desarrollo",
+    "description": "Podemos hacer realidad tu idea, o mejorar algo que ya tienes.",
     "image": {
-      "url": "images/features/noun_3d modeling_1885342.svg",
+      "url": "images/features/desarrollo.png",
       "width": 80,
       "height": 80
     }
