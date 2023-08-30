@@ -7,8 +7,8 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Servicios
+# Servicios 
 
-Nuestros servicios estan basados en la etica orientados a brindar resultados de alto valor para su negocio, garantizando el retorno de inversion tecnologica.
+Nuestros servicios están basados en la ética orientados a brindar resultados de alto valor para su negocio, garantizando el retorno de inversión tecnológica.
 
 
