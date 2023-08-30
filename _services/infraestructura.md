@@ -16,10 +16,10 @@ Nuestros servicios de infraestructura proporcionan asesoramiento especializado p
 - **Servicios de Cloud Computing**
 - **Redes de datos**
 - **Seguridad**
-- **Soporte tecnico**
+- **Soporte técnico**
 - **Mantenimiento**
 - **Cableado Estructurado**
-- **Centrales telefonicas IP**
+- **Centrales telefónicas IP**
 
 ## Beneficios
 
