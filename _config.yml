@@ -1,6 +1,6 @@
-baseurl: '/'
+baseurl: "/"
 permalink: pretty
-title: 'CaSyCon S.R.L.'
+title: "CaSyCon S.R.L."
 
 logo:
   mobile: "images/logo/caribbean.svg"
@@ -19,7 +19,8 @@ collections:
     sort_by: weight
   team:
     output: true
-
+  partners:
+    output: true
 defaults:
   - scope:
       path: ""
@@ -31,9 +32,12 @@ defaults:
       type: "team"
     values:
       layout: "team"
-
-sass:
-  style: compressed # possible values: nested expanded compact compressed
+  - scope:
+      path: ""
+      type: "partners"
+    values:
+      layout: "partners"
+    style: compressed # possible values: nested expanded compact compressed
 
 plugins:
   - jekyll-environment-variables
