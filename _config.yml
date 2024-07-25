@@ -18,7 +18,7 @@ collections:
     output: true
     sort_by: weight
   team:
-    output: true
+    output: false
   partners:
     output: true
 defaults:
@@ -27,11 +27,6 @@ defaults:
       type: "services"
     values:
       layout: "service"
-  - scope:
-      path: ""
-      type: "team"
-    values:
-      layout: "team"
     style: compressed # possible values: nested expanded compact compressed
 
 plugins:
