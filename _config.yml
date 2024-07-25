@@ -1,6 +1,6 @@
 baseurl: "/"
 permalink: pretty
-title: "CaSyCon S.R.L."
+title: "CASYCON S.R.L."
 
 logo:
   mobile: "images/logo/caribbean.svg"
@@ -18,7 +18,7 @@ collections:
     output: true
     sort_by: weight
   team:
-    output: true
+    output: false
   partners:
     output: true
 defaults:
