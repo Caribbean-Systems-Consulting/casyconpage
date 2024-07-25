@@ -9,7 +9,3 @@ weight: 1
 ---
 
 Tecnólogo orientado a resultados con más de 12 años de experiencia en la industria de TI.
-
-Egresado de la carrera de Ingeniería de Software
-
-
