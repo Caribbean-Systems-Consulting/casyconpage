@@ -1,5 +1,5 @@
 ---
-title: CASYCO S.R.L
+title: CASYCON S.R.L.
 layout: home
 description: Caribbean Systems Consulting (CASYCON) S.R.L.
 intro_image: "images/illustrations/con-letra.jpg"
