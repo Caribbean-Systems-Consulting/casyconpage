@@ -4,7 +4,7 @@ main:
     weight: 2
   - name: "Equipo"
     url: "/team/"
-    weight: 1
+    weight: 3
   - name: "Sobre nosotros"
     url: "/about/"
     weight: 4

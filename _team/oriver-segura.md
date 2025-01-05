@@ -8,4 +8,4 @@ promoted: true
 weight: 1
 ---
 
-Experto orientado a soluciones y resultados con más de 14 años de experiencia en la industria de TI.
+Técnico orientado a soluciones y resultados con más de 14 años de experiencia en la industria de TI.
